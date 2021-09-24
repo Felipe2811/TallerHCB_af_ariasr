@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    margin-left: 20px;
+  }
+
+#carouselExampleControls{
+    margin: 50px;
+    padding: 20px;
+}
+
+#albumes{
+    margin-top: 3rem;
+
+}
+
+#formulario{
+    margin-top: 3rem;
+
+}
+
+#parrafo{
+    margin: 50px;
+}
